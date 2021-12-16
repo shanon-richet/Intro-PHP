@@ -1,0 +1,11 @@
+ul {
+    list-style: none;
+}
+.nav-bar ul {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.nav-bar ul li a {
+    background-color: yellow;
+}
