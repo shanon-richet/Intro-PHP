@@ -1,0 +1,19 @@
+{
+    "name": "shanon/lamp-docker",
+    "description": "premier projet avec php",
+    "require-dev": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shanon\\LampDocker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shanon",
+            "email": "shanon.richet@gmail.com"
+        }
+    ],
+    "require": {}
+}
